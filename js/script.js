@@ -17,10 +17,8 @@ console.log(fullName);
 // Question 3
 
 var pet = "frog";
-var typeOfPet = typeof pet;
-
 var type = typeof("frog");
-console.log ("The type of frog is" + " " + typeOfPet)
+console.log ("The type of frog is" + " " + type)
 
 
 // Question 4 
